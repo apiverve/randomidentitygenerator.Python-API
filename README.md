@@ -1,4 +1,4 @@
-Random Identity API
+Random Identity Generator API
 ============
 
 Random Identity is a simple tool for generating random identities. It returns a random name, address, and more.
@@ -7,12 +7,12 @@ Random Identity is a simple tool for generating random identities. It returns a 
 ![Code Climate](https://img.shields.io/badge/maintainability-B-purple)
 ![Prod Ready](https://img.shields.io/badge/production-ready-blue)
 
-This is a Python API Wrapper for the [Random Identity API](https://apiverve.com/marketplace/api/randomidentitygenerator)
+This is a Python API Wrapper for the [Random Identity Generator API](https://apiverve.com/marketplace/api/randomidentitygenerator)
 
 ---
 
 ## Installation
-	pip install apiverve-randomidentity
+	pip install apiverve-randomidentitygenerator
 
 ---
 
@@ -25,14 +25,14 @@ You can get it by signing up at [https://apiverve.com](https://apiverve.com)
 
 ## Usage
 
-The Random Identity API documentation is found here: [https://docs.apiverve.com/api/randomidentitygenerator](https://docs.apiverve.com/api/randomidentitygenerator).  
+The Random Identity Generator API documentation is found here: [https://docs.apiverve.com/api/randomidentitygenerator](https://docs.apiverve.com/api/randomidentitygenerator).  
 You can find parameters, example responses, and status codes documented here.
 
 ### Setup
 
 ```
 # Import the client module
-from apiverve_randomidentity.apiClient import RandomidentitygeneratorAPIClient
+from apiverve_randomidentitygenerator.apiClient import RandomidentitygeneratorAPIClient
 
 # Initialize the client with your APIVerve API key
 api = RandomidentitygeneratorAPIClient("[YOUR_API_KEY]")
@@ -67,19 +67,19 @@ print(result)
   "status": "ok",
   "error": null,
   "data": {
-    "name": "Nellie Grant",
-    "username": "Price.Corkery",
-    "email": "Camron35@yahoo.com",
-    "phone": "(233) 270-2317 x362",
-    "website": "lucas.biz",
+    "name": "Mr. Theodore Hyatt",
+    "username": "Zachery.Veum29",
+    "email": "Keyshawn_Schuppe@gmail.com",
+    "phone": "502-728-4808 x54400",
+    "website": "marta.net",
     "company": {
-      "name": "Smitham - Zieme",
-      "catchPhrase": "Realigned discrete definition",
-      "bs": "enable holistic e-business"
+      "name": "Walker Group",
+      "catchPhrase": "Innovative web-enabled capability",
+      "bs": "reintermediate mission-critical metrics"
     },
     "gender": "Female",
-    "birthdate": "1971-04-08",
-    "cell": "316-912-4573 x7586"
+    "birthdate": "1955-10-30",
+    "cell": "814.554.6215"
   }
 }
 ```
