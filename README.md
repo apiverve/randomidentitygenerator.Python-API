@@ -67,19 +67,19 @@ print(result)
   "status": "ok",
   "error": null,
   "data": {
-    "name": "Desiree VonRueden",
-    "username": "Annie.Terry49",
-    "email": "Durward_Sporer64@hotmail.com",
-    "phone": "443.559.9597",
-    "website": "kamille.name",
+    "name": "Candace Hauck",
+    "username": "Efren_Kozey",
+    "email": "Nickolas.Herman@gmail.com",
+    "phone": "(524) 820-4614 x1999",
+    "website": "louie.info",
     "company": {
-      "name": "Skiles, Hammes and Ebert",
-      "catchPhrase": "Streamlined reciprocal open system",
-      "bs": "seize robust e-tailers"
+      "name": "Osinski, Schuppe and Pfannerstill",
+      "catchPhrase": "Fully-configurable analyzing artificial intelligence",
+      "bs": "productize viral schemas"
     },
-    "gender": "Male",
-    "birthdate": "1977-03-03",
-    "cell": "1-948-622-4323 x2506"
+    "gender": "Female",
+    "birthdate": "1961-08-22",
+    "cell": "1-275-508-8744 x80019"
   },
   "code": 200
 }
@@ -107,7 +107,7 @@ All usage of the APIVerve website, API, and services is subject to the [APIVerve
 ## License
 Licensed under the The MIT License (MIT)
 
-Copyright (&copy;) 2024 APIVerve, and Evlar LLC
+Copyright (&copy;) 2025 APIVerve, and EvlarSoft LLC
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
